@@ -1,0 +1,8 @@
+<openerp>
+    <data>
+        <template id="index">
+            <title>Swagger UI</title>
+            <p>{{ var }}</p>
+        </template>
+    </data>
+</openerp>
